@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NachiketDani
-- 👀 I’m currently interested in building scalable software solutions and cloud enablement 
-- 🌱 I’m currently learning Distrbuted Systems and scaling distributed systems
+- 👀 I’m currently interested in building scalable software solutions and machine learning.
+- 🌱 Summer'21 Software Development Intern at Amazon
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachiket-dani-6a57a920)
 
