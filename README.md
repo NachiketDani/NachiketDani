@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NachiketDani
 - 👀 I’m currently interested in building scalable software solutions and machine learning.
-- 🌱 Summer'21 Software Development Intern at Amazon
+- Former Software Development Engineer at Amazon
+- Actively on a job hunt
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachiket-dani-6a57a920)
 
