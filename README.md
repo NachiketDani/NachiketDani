@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NachiketDani
-- 👀 I’m currently interested in building scalable software solutions and machine learning.
+- 👀 I’m love engineering and building scalable distributed software solutions, async+serverless tools and Machine Learning/AI.
 - Former Software Development Engineer at Amazon
 - Actively on a job hunt
 
